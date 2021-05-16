@@ -6,6 +6,8 @@
 
 - [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://youtu.be/r-uOLxNrNk8) / [go to my repo](https://github.com/gsamil/TurkishPython/blob/main/pandas.ipynb)
 
+- [Algorithms and Data Structures - Full Course for Beginners from Treehouse](https://youtu.be/8hly31xKli0)
+
 ### Web Development
 
 - [Python Django Web Framework - Full Course for Beginners](https://youtu.be/F5mRW0jo-U4) / [go to my repo](https://github.com/gsamil/django-tutorial)
