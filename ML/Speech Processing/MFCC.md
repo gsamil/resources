@@ -35,7 +35,7 @@ The formula for converting from frequency to Mel scale is:
 M(f) = 1125\,ln(1 + f/700)
 $$ --> 
 
-<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=M(f)%20%3D%201125%5C%2Cln(1%20%2B%20f%2F700)%0D"></div>
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=M(f)%20%3D%201125%5C%2Cln(1%20%2B%20f%2F700)%0D"></div>
 
 To go from Mels back to frequency:
 
@@ -43,7 +43,7 @@ To go from Mels back to frequency:
 M^{-1}(f) = 700\,(exp(m/1125) - 1)
 $$ --> 
 
-<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=M%5E%7B-1%7D(f)%20%3D%20700%5C%2C(exp(m%2F1125)%20-%201)%0D"></div>
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=M%5E%7B-1%7D(f)%20%3D%20700%5C%2C(exp(m%2F1125)%20-%201)%0D"></div>
 
 ## Resources
 
